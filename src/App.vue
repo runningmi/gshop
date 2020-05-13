@@ -18,7 +18,9 @@ export default {
 
   computed: {},
 
-  mounted: {},
+  mounted() {
+    this.$store.dispatch('getAddress')
+  },
 
   methods: {}
 };

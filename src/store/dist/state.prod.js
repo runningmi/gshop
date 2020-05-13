@@ -1,0 +1,1 @@
+"use strict";Object.defineProperty(exports,"__esModule",{value:!0}),exports.default=void 0;var _default={latitude:40.10038,longitude:116.36867,address:{},categorys:[],shops:[]};exports.default=_default;
